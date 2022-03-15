@@ -17,10 +17,11 @@ body {
 .navbar-brand {
     color: #ffffff;
     cursor: pointer;
-    font-size: 34px;
+    font-size: 25px;
     font-family: 'Asul', serif;
     font-weight: 700;
     margin-left: 1em;
+    margin-bottom: 0em;
 }
 
 .nav-link {
@@ -43,6 +44,7 @@ body {
     background-position: 50% 33%;
     position: relative;
     height: 100%;
+    margin-top: -.5em;
 }
 
 
