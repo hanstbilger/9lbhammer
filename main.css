@@ -198,7 +198,7 @@ body {
 #jumbotron-bio{
   background-image: url('assets/bio.jpeg');
   background-size: cover;
-  background-position: 50% 28%;
+  background-position: 50% 40%;
   padding-top: 13%;
   padding-bottom: 13%;
 }
